@@ -10,5 +10,8 @@ public class IPL {
         if(RCB==0){
             System.out.println("Ee sala cup namde!!!");
         }
+        if(CSK!=0){
+            System.out.println("It may win this year");
+        }
     }
 }
